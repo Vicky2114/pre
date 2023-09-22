@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #f8c09588 !important;
+  font-size: 20px;
+}
+
+.nav-link:focus {
+  color: #ce7836;
+}
+
+.am {
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+}
